@@ -1,18 +1,13 @@
-The OANDA v20 REST API provides programmatic access to OANDA's next generation
-v20 trading engine.
+-- This is a modified version of OANDA v20 REST API --
+
+The oanda-v20-REST-API provides programmatic access to OANDA's trading engine.
 
 ## Installation
 
 If you have the node package manager, npm, installed:
 
 ```shell
-npm install -g @oanda/v20
-```
-
-Leave off the `-g` if you don't wish to install globally. If you don't wish to use npm:
-
-```
-git clone https://github.com/oanda/v20-javascript.git
+npm i hugomcm/oanda-v20-REST-API
 ```
 
 ## Documentation
